@@ -57,7 +57,7 @@ plt.rcParams.update({
     'figure.dpi': 300,
     'savefig.dpi': 300,
     'font.size': 10,
-    'font.family': 'sans-serif',
+    'font.family': 'Times New Roman',
     'axes.labelsize': 11,
     'axes.titlesize': 12,
     'xtick.labelsize': 9,
