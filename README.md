@@ -458,3 +458,4 @@ Para dúvidas sobre os gráficos, consulte:
 **Status:** ✅ Pronto para Produção  
 **Última Atualização:** 15 de janeiro de 2026  
 **Versão:** 2.0 (com GLM e Comparação)
+**Versão:** 2.0 (com GLM e Comparação)
